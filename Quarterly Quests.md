@@ -7,7 +7,7 @@
 #### Recurring weekly tasks
 
 - [ ] Job Applications
-- [ ] Solve leetcode
+- [ ] Solve Leetcode
 - [ ] Focused learning
 - [ ] Coding projects
 - [ ] Reading code
@@ -48,11 +48,11 @@
 - [ ] Job Applications
 - [ ] Job Applications
 - [ ] Job Applications
-- [X] Solve leetcode easy
-- [X] Solve leetcode easy
-- [ ] Solve leetcode medium
-- [ ] Solve leetcode medium
-- [ ] Solve leetcode hard
+- [X] Solve Leetcode easy
+- [X] Solve Leetcode easy
+- [ ] Solve Leetcode medium
+- [ ] Solve Leetcode medium
+- [ ] Solve Leetcode hard
 - [X] Coding projects
 - [X] Coding projects
 - [X] Coding projects
@@ -77,7 +77,9 @@
 - [ ] Programming Networking
 - [ ] Programming Networking
 - [ ] Refine workout log UI
-- [ ] Implementing data structures in Python (stacks or queues etc.)
+- [X] Implementing data structures in Python (stacks)
+- [X] Implementing data structures in Python (queues)
+- [X] Implementing data structures in Python (linked list)
 
 ##### [ ] Week 5
 

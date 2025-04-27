@@ -13,16 +13,11 @@
 # Coding
 
 ## Data Structure and Algorithms
+[list of DSA](https://www.geeksforgeeks.org/dsa-tutorial-learn-data-structures-and-algorithms/)
 
   * [Graphs](Graphs.md)
   * [Hash table](Hash table.md)
-  * Queue
-  * Linked List
-  * Stacks
-
-
-
-
-
-
+  * [Stacks](Stacks.md)
+  * [Queue](Queue.md)
+  * [Linked List](Linked List.md)
 

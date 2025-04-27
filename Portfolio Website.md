@@ -1,7 +1,7 @@
 # Portfolio Website
 
-## DONE Structure [[File:~/repos/portfolio-website/src/index.html::</li>]]
-## DONE Content [[File:~/repos/portfolio-website/src/index.html::</li>]]
+## DONE Structure
+## DONE Content
 - [X] add href to images
 - [X] add href to <A>
 - [X] add responsibilities for work

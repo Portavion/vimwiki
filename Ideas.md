@@ -3,21 +3,7 @@
 - [[AI assistant]]
 - [[Neovim todo plugin]] 
 - [[Webapp boilerplate]]
+- [Flight Data web app](Flight Data web app.md)
+- [AI Calorie Tracker](AI Calorie Tracker.md)
+- [Memory Photo Mobile App](Memory Photo Mobile App.md)
 
-## Small web app that give some insights based on flight data
-
-How likely am I going to be delayed?
-
-Uses fun langues and tells you wether your flight is cooked or based.
-
-## Calorie tracker with AI features
-Calorie tracker that allows a user to easily enter everything he eats.
-
-It needs to be able to fetch nutrition facts in several ways:
-- AI picture that is automatically analyse (see React Native simon youtube channel)
-- Type the name of the food and lookup the OpenFoodFact API
-- Enter a link to a recipe and parse the ingredients
-- Take a picture of a list of ingredients in a recip book and parse the ingredients
-- Take a picture of the nutritional facts and create a new ingredient based on that (then send for review so that I can add to my own db)
-
-## Mobile that pings you to take photo throughout the day and create a journal
