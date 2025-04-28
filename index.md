@@ -17,4 +17,3 @@
   * [Python](Python.md)
 
 # Working on | tags:focus
-* [ ] Update hichord [link](https://hichord.github.io/Programmer/)  #5671971f

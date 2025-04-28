@@ -35,9 +35,9 @@
 
 ##### Week 5
 
-* [ ] Job Applications  #18bcd9a7
-* [ ] Job Applications  #fcacc12b
-* [ ] Job Applications  #7f18ce9e
+* [X] Job Applications  #18bcd9a7
+* [X] Job Applications  #fcacc12b
+* [X] Job Applications  #7f18ce9e
 * [ ] Job Applications  #d95564f2
 * [ ] Job Applications  #9561269e
 * [ ] Job Applications  #b333267a
@@ -50,7 +50,7 @@
 * [ ] Job Applications  #4337902d
 * [ ] Job Applications  #58a82142
 * [ ] Job Applications  #1b9b5cb5
-* [ ] Solve Leetcode easy  #17d4c038
+* [X] Solve Leetcode easy  #17d4c038
 * [ ] Solve Leetcode easy  #7de6635b
 * [ ] Solve Leetcode easy  #739cc6c8
 * [ ] Solve Leetcode medium  #85a174a9
@@ -72,7 +72,7 @@
 * [ ] Reading code  #d0cd0600
 * [ ] Reading code  #31706031
 * [ ] Reading code  #a81a6f3b
-* [ ] Programming Networking  #e4894e14
+* [X] Programming Networking  #e4894e14
 * [ ] Programming Networking  #7f0f7681
 * [ ] Programming Networking  #be2d714b
 * [ ] Programming Networking  #2c547255
