@@ -1,5 +1,5 @@
-# Portfolio Website
-
+# Portfolio Website || project:'Portfolio Website'
+== test | project:testwiki ==
 ## DONE Structure
 ## DONE Content
 - [X] add href to images
@@ -8,14 +8,16 @@
 - [X] add responsibilities for education
 - [X] add icons for social media
 - [X] add icons for technology stack
-- [X] add icons for project tech stack
+- [X] add icons for project tech stack-
 - [X] format html
 - [X] for profile header maybe put my name in the border and the pic centered at the bottom
 - [X] add project links
 - [X] add project descriptions
-- [ ] saved tech stack svgs as file to cleanup the html index
-- [ ] update resume file
-- [ ] change project descriptions to something more human
+* [ ] saved tech stack svg as file to cleanup the html index  #0ee9a97f
+* [ ] update resume file  #80a678e8
+* [ ] change project description to something more human  #e9af8375
+* [ ] create individual pages for projects  #f79cc11b
+* [ ] create individual pages for tech stack  #a7cc06ba
 
 ## TODO Styling
 
@@ -35,8 +37,8 @@ Styling example:
 - [X] add website icon
 - [X] responsive mobile layout
 - [X] make the lines background slightly more light on hover (like a terminal)
-- [ ] Add video player for projects walkthrough:  Video.js https://videojs.com/
-- [ ] maybe find some ascii art to display with my name?
+* [ ] Add video player for projects walkthrough:  Video.js https://videojs.com/  #d545561d
+* [ ] maybe find some ascii art to display with my name?  #43132065
 
 ## TODO Add-ons
 
