@@ -14,10 +14,7 @@
 
   * [Data Structure](Data-Structure.md)
   * Algorithms
+  * [Python](Python.md)
 
 # Working on | tags:focus
-* [ ] Weekly Scoring (2025-04-28 09:30)  #c17a3148
-* [ ] Learn about __init__ etc.  #e8834bf2
-* [ ] bring back list of projects to vimwiki  #ed35d29f
-* [ ] Update CV to say mastering engineer at Micron Mastering rather than gap  #ba4c3b87
 * [ ] sync vimwiki to phone  #01684c27
