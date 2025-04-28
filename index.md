@@ -17,4 +17,8 @@
   * [Python](Python.md)
 
 # Working on | tags:focus
-* [ ] sync vimwiki to phone  #01684c27
+* [ ] Job Applications  #18bcd9a7
+* [ ] Job Applications  #fcacc12b
+* [ ] Job Applications  #7f18ce9e
+* [ ] update resume file  #80a678e8
+* [ ] Update hichord [link](https://hichord.github.io/Programmer/)  #5671971f

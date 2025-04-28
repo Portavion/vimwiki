@@ -27,7 +27,7 @@
 
 ##### Week 3 || project:2025Q2-Quarterly-Quest
 * [ ] Learn about encapsulation  #f87a77d1
-* [ ] Learn about __init__ etc.  #e8834bf2
+* [D] Learn about __init__ etc.  #e8834bf2
 
 ##### Week 4 || project:2025Q2-Quarterly-Quest
 * [ ] Refine workout log UI  #52735e57

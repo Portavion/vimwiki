@@ -30,5 +30,4 @@
 * [X] Implementing data structures in Python (stacks)  #78e0c1c6
 * [X] Implementing data structures in Python (queues)  #fde137fb
 * [X] Implementing data structures in Python (linked list)  #add72dbb
-* [X] Weekly Scoring (2025-04-28 09:30)  #c17a3148
 
