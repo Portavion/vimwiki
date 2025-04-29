@@ -16,11 +16,9 @@
   * Algorithms
   * [Python](Python.md)
 
-# Working on | tags:next
-* [ ] Learn about encapsulation  #f87a77d1
-* [ ] Job Applications  #d95564f2
-* [ ] Job Applications  #9561269e
-* [ ] Job Applications  #16f00c96
-* [ ] saved tech stack svg as file to cleanup the html index  #0ee9a97f
-* [ ] puncture zishu's bundle and cover  #53561de9
-* [ ] stitch zishu's bundle and cover  #66ce20b6
+# Working on | tags:next status:Pending
+* [ ] Read about inheritance and polymorphism  #2de6492f
+* [ ] Learn about basic design patterns (singleton, factory)  #9b8526b5
+* [ ] Solve Leetcode easy  #739cc6c8
+* [ ] Solve Leetcode easy  #7de6635b
+* [ ] Add implementation of linked list operations  #23bc90a0

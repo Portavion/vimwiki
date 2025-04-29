@@ -26,7 +26,7 @@
 * [ ] Read about inheritance and polymorphism  #2de6492f
 
 ##### Week 3 || project:2025Q2-Quarterly-Quest
-* [ ] Learn about encapsulation  #f87a77d1
+* [X] Learn about encapsulation  #f87a77d1
 * [D] Learn about __init__ etc.  #e8834bf2
 
 ##### Week 4 || project:2025Q2-Quarterly-Quest
@@ -38,10 +38,10 @@
 * [X] Job Applications  #18bcd9a7
 * [X] Job Applications  #fcacc12b
 * [X] Job Applications  #7f18ce9e
-* [ ] Job Applications  #d95564f2
-* [ ] Job Applications  #9561269e
+* [X] Job Applications  #9561269e
 * [X] Job Applications  #b333267a
-* [ ] Job Applications  #16f00c96
+* [X] Job Applications  #16f00c96
+* [ ] Job Applications  #d95564f2
 * [ ] Job Applications  #ea86c81e
 * [ ] Job Applications  #09492dad
 * [ ] Job Applications  #2024e322
@@ -57,7 +57,7 @@
 * [ ] Solve Leetcode medium  #646979c7
 * [ ] Solve Leetcode medium  #4a31a816
 * [ ] Solve Leetcode hard  #b75301fa
-* [ ] Coding projects  #2a8cb92d
+* [X] Coding projects  #2a8cb92d
 * [ ] Coding projects  #e4788b17
 * [ ] Coding projects  #e614d869
 * [ ] Coding projects  #4210ea8a
