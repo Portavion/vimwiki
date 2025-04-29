@@ -40,7 +40,7 @@
 * [X] Job Applications  #7f18ce9e
 * [ ] Job Applications  #d95564f2
 * [ ] Job Applications  #9561269e
-* [ ] Job Applications  #b333267a
+* [X] Job Applications  #b333267a
 * [ ] Job Applications  #16f00c96
 * [ ] Job Applications  #ea86c81e
 * [ ] Job Applications  #09492dad

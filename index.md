@@ -16,4 +16,11 @@
   * Algorithms
   * [Python](Python.md)
 
-# Working on | tags:focus
+# Working on | tags:next
+* [ ] Learn about encapsulation  #f87a77d1
+* [ ] Job Applications  #d95564f2
+* [ ] Job Applications  #9561269e
+* [ ] Job Applications  #16f00c96
+* [ ] saved tech stack svg as file to cleanup the html index  #0ee9a97f
+* [ ] puncture zishu's bundle and cover  #53561de9
+* [ ] stitch zishu's bundle and cover  #66ce20b6

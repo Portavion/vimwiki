@@ -12,11 +12,11 @@
 * [X] bring back list of projects to vimwiki  #ed35d29f
 * [X] Update CV to say mastering engineer at Micron Mastering rather than gap  #ba4c3b87
 * [X] Update hichord [link](https://hichord.github.io/Programmer/)  #5671971f
-* [ ] stitch zishu's bundle and cover  #66ce20b6
-* [ ] puncture zishu's bundle and cover  #53561de9
-* [ ] sync vimwiki to phone  #01684c27
-* [ ] Add implementation of linked list operations  #23bc90a0
+* [X] sync vimwiki to phone  #01684c27
 * [D] finger health  #b82a08a5
 * [X] 8k steps  #afc8ee08
+* [ ] stitch zishu's bundle and cover  #66ce20b6
+* [ ] puncture zishu's bundle and cover  #53561de9
+* [ ] Add implementation of linked list operations  #23bc90a0
 * [ ] calorie tracking  #aca925f0
 
