@@ -23,3 +23,7 @@
   * [[Pokemon Sleep]]
 
 # Working on | tags:next status:Pending
+* [ ] Reading code  #bb0a3339
+* [ ] Reading code  #d6795e44
+* [ ] change project description to something more human  #e9af8375
+* [ ] Replace space in .md files  #f58ee516
