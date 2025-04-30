@@ -1,6 +1,6 @@
 # Ideas
 
-- [[AI assistant]]
+- [[AI Assistant]]
 - [[Neovim todo plugin]] 
 - [[Webapp boilerplate]]
 - [Flight Data web app](Flight Data web app.md)

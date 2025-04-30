@@ -1,4 +1,8 @@
-# AI assistant (schedule, tasks, weather and other plugins)
+# AI Assistant
+
+## Description
+ 
+(schedule, tasks, weather and other plugins)
 
 Collects data by plugging into calendar, weather, todo app etc.. and generates a brief from an LLM
 
