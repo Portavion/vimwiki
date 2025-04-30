@@ -13,8 +13,8 @@
 - [X] for profile header maybe put my name in the border and the pic centered at the bottom
 - [X] add project links
 - [X] add project descriptions
-* [ ] saved tech stack svg as file to cleanup the html index  #0ee9a97f
-* [ ] update resume file  #80a678e8
+* [X] saved tech stack svg as file to cleanup the html index  #0ee9a97f
+* [X] update resume file  #80a678e8
 * [ ] change project description to something more human  #e9af8375
 * [ ] create individual pages for projects  #f79cc11b
 * [ ] create individual pages for tech stack  #a7cc06ba
@@ -43,3 +43,6 @@ Styling example:
 ## TODO Add-ons
 
 Could add some could mini games to add some interactivity to the site?
+
+  * Look into [Fancy Components](https://www.fancycomponents.dev/components)
+  * what am I listening section (from spotify and or tidal)

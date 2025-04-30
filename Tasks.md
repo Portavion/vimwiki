@@ -15,8 +15,14 @@
 * [X] sync vimwiki to phone  #01684c27
 * [D] finger health  #b82a08a5
 * [X] 8k steps  #afc8ee08
-* [ ] stitch zishu's bundle and cover  #66ce20b6
-* [ ] puncture zishu's bundle and cover  #53561de9
+* [X] stitch zishu's bundle and cover  #66ce20b6
+* [X] puncture zishu's bundle and cover  #53561de9
+* [X] calorie tracking  #aca925f0
 * [ ] Add implementation of linked list operations  #23bc90a0
-* [ ] calorie tracking  #aca925f0
+* [ ] RSVP to Juliette's wedding invite  #068b15de
+* [ ] Extract cursor prompts [link](https://www.reddit.com/r/ClaudeAI/comments/1k6yos2/i_was_rejected_by_cursorai_so_i_built_my_own/?share_id=UkE0iVdyzHOID-akolO_f&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22) [github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  #526e3645
+* [ ] Replace space in .md files  #f58ee516
+* [ ] install webui for llm chats  #0592c88b
+* [ ] update aider recommandations.md [video](https://www.youtube.com/watch?v=QlUt06XLbJE)  #6881e729
+* [ ] flexibility training  #b7641c7e
 

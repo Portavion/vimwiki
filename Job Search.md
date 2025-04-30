@@ -1,11 +1,15 @@
-# Job Hunt
+# Job Hunt  || project:'Job Hunt'
+
+## Tasks
+
+  * [ ] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #ce0f0d39
 
 ## Templates
 ### Cover Letter
 
 ```Hi there, Guillaume here,
 
-My name is Guillaume (Ghee - YOHM)I love [INSERT COMPANY NAME] cool product and your approach to team collaboration and transparency and I think there could be a great mutual fit.
+My name is Guillaume (Ghee - YOHM)I love [I[NSERT COMPANY NAME] cool product and your approach to team collaboration and transparency and I think there could be a great mutual fit.
 
 My GitHub [INSERT LINK] provides a quick summary of myself but here are some key points:
 

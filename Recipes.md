@@ -1,4 +1,5 @@
 # Recipes
+  * [recipe-inbox](recipe-inbox.md)
 
 ## Week 18
 

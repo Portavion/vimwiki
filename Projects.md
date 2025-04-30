@@ -1,9 +1,13 @@
-# Projects =
+# Projects
 
 ## Projects with dedicated note
-- [[Portfolio Website]]
-- [[Job Search]]
-- [Vimwiki Config](Vimwiki-Config.md)
-- [Porodomo](Porodomo.md)
+
+  * [[Portfolio Website]]
+  * [[Job Search]]
+  * [[Vimwiki Config]] 
+  * [[Porodomo]]
+  * [[Chalkr]]
+  * [[Velock]]
+  * [[Streamtostream]]
 
 
