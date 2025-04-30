@@ -1,4 +1,4 @@
-# Todo List
+# Todos
 
 * [ ] add billing method for free unlimited gemini exp models  #aa4d038f
 * [ ] RSVP to Juliette's wedding invite  #068b15de
@@ -11,7 +11,7 @@
 * [ ] dusting  #7f9a1d47
 * [ ] 8k steps  #6b4b2e56
 
-# Todone
+## Done
 
 - [X] sync vimwiki to github
 - [X] break [[Projects]] into individual notes
