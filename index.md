@@ -14,16 +14,12 @@
 
 # Coding
 
-  * [[Data Structure]]
   * Algorithms
-  * [[Python]]
+  * [[Data Structure]]
+  * [[OOP]]
 
 # Games
 
   * [[Pokemon Sleep]]
 
 # Working on | tags:next status:Pending
-* [ ] Read about inheritance and polymorphism  #2de6492f
-* [ ] record chalkr walkthrough video  #f5c57c6a
-* [ ] note on inheritance  #a418a058
-* [ ] note on polymorphism  #d6cf4905

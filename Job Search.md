@@ -2,8 +2,11 @@
 
 ## Tasks
 
-  * [ ] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #ce0f0d39
+  * [ ] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #0edda278
 
+## Startups
+
+  * [[Startup Directory]]
 ## Templates
 ### Cover Letter
 

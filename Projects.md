@@ -11,5 +11,6 @@
   * [[Streamtostream]]
   * [[Mini Tools]]
   * Todo.txt
+  * [[AI Assistant]]
 
 
