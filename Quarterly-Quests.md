@@ -41,7 +41,7 @@
 * [X] Job Applications  #9561269e
 * [X] Job Applications  #b333267a
 * [X] Job Applications  #16f00c96
-* [ ] Job Applications  #d95564f2
+* [X] Job Applications  #d95564f2
 * [ ] Job Applications  #ea86c81e
 * [ ] Job Applications  #09492dad
 * [ ] Job Applications  #2024e322
@@ -51,10 +51,10 @@
 * [ ] Job Applications  #58a82142
 * [ ] Job Applications  #1b9b5cb5
 * [X] Solve Leetcode easy  #17d4c038
-* [ ] Solve Leetcode easy  #7de6635b
-* [ ] Solve Leetcode easy  #739cc6c8
-* [ ] Solve Leetcode medium  #85a174a9
-* [ ] Solve Leetcode medium  #646979c7
+* [X] Solve Leetcode easy  #7de6635b
+* [X] Solve Leetcode easy  #739cc6c8
+* [X] Solve Leetcode medium  #85a174a9
+* [X] Solve Leetcode medium  #646979c7
 * [ ] Solve Leetcode medium  #4a31a816
 * [ ] Solve Leetcode hard  #b75301fa
 * [X] Coding projects  #2a8cb92d
