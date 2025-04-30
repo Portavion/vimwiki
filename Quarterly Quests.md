@@ -23,7 +23,6 @@
 - [X] Focused Learning milestones
 
 ##### Week 2 ||
-* [ ] Read about inheritance and polymorphism  #2de6492f
 
 ##### Week 3 || project:2025Q2-Quarterly-Quest
 * [X] Learn about encapsulation  #f87a77d1

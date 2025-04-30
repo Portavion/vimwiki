@@ -1,33 +1,29 @@
 # Productivity
 
   * [[Inbox]] -- dump and temporary stuff
-  * [[Tasks]] -- things that should have been done _yesterday_!!
-  * [Projects](Projects.md) -- a list of all the current projects
-  * [Ideas](Ideas.md) -- things I could build later
-  * [Blog](Blog.md) -- Article ideas etc.
+  * [[Tasks]] -- should have been done _yesterday_!!
+  * [[Projects]] -- a list of all the current projects
+  * [[Ideas]] -- things I could build later
+  * [[Blog]]  -- Article ideas etc.
 
 # Life Stuff
 
-  * 🧙🏻✨[Quarterly Quests](Quarterly-Quests.md)✨🧙🏻
-  * 🧑🏻‍🍳🍅[Recipes](Recipes.md)🍅🧑🏻‍🍳
-  * 🎀💖[Zishu](Zishu.md)💖🎀
+  * 🧙🏻✨[[Quarterly Quests]]✨🧙🏻
+  * 🧑🏻‍🍳🍅[[Recipes]]🍅🧑🏻‍🍳
+  * 🎀💖[[Zishu]]💖🎀
 
 # Coding
 
-  * [Data Structure](Data-Structure.md)
+  * [[Data Structure]]
   * Algorithms
-  * [Python](Python.md)
+  * [[Python]]
 
 # Games
 
-  * [Pokemon Sleep](pokemon-sleep.md)
+  * [[Pokemon Sleep]]
 
 # Working on | tags:next status:Pending
 * [ ] Read about inheritance and polymorphism  #2de6492f
-* [ ] Job Applications  #ea86c81e
-* [ ] Programming Networking  #7f0f7681
-* [ ] Programming Networking  #be2d714b
-* [ ] Learn about basic design patterns (singleton, factory)  #9b8526b5
-* [ ] Reading code  #d0cd0600
-* [ ] Coding projects  #e614d869
-* [ ] Add implementation of linked list operations  #23bc90a0
+* [ ] record chalkr walkthrough video  #f5c57c6a
+* [ ] note on inheritance  #a418a058
+* [ ] note on polymorphism  #d6cf4905

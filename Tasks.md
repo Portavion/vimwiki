@@ -25,4 +25,11 @@
 * [ ] install webui for llm chats  #0592c88b
 * [ ] update aider recommandations.md [video](https://www.youtube.com/watch?v=QlUt06XLbJE)  #6881e729
 * [ ] flexibility training  #b7641c7e
-
+* [ ] climbing  #22fa379f
+* [ ] calorie log  #7bdd0f99
+* [ ] note on polymorphism  #d6cf4905
+* [ ] note on inheritance  #a418a058
+* [ ] fold clothes  #f861282c
+* [ ] dusting  #7f9a1d47
+* [ ] 8k steps  #6b4b2e56
+* [X] 5+ km run  #4ebf1bf0

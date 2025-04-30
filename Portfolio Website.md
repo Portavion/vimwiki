@@ -46,3 +46,4 @@ Could add some could mini games to add some interactivity to the site?
 
   * Look into [Fancy Components](https://www.fancycomponents.dev/components)
   * what am I listening section (from spotify and or tidal)
+  * opens source contribution section
