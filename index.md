@@ -19,12 +19,9 @@
 # Working on | tags:next status:Pending
 * [ ] Read about inheritance and polymorphism  #2de6492f
 * [ ] Learn about basic design patterns (singleton, factory)  #9b8526b5
-* [ ] Job Applications  #2024e322
-* [ ] Job Applications  #09492dad
 * [ ] Job Applications  #ea86c81e
 * [ ] Programming Networking  #7f0f7681
 * [ ] Programming Networking  #be2d714b
-* [ ] Solve Leetcode medium  #4a31a816
 * [ ] Reading code  #d0cd0600
 * [ ] Coding projects  #e614d869
 * [ ] Add implementation of linked list operations  #23bc90a0
