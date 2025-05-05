@@ -16,5 +16,6 @@
 - [green.nvim](green.nvim.md)
 - Meander app -- Scroll through a tree of recommended artists from spotify
 - Shortcut / app / chrome extension for quick dump of tasks into my inbox from GitHub
+- Browser extension to convert unit at the press of a button
 
 
