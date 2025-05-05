@@ -1,14 +1,11 @@
 # Recipes
   * [recipe-inbox](recipe-inbox.md)
 
-## Week 18
+## Week 19
 
-- [Carrot and red lentils soup](https://www.bbcgoodfood.com/recipes/spiced-carrot-lentil-soup)
-- [Flammekuchen](https://www.marmiton.org/recettes/recette_flammekueche-en-map-ou-a-la-main_223784.aspx)
-- Air fryer vegetables:
-  * [Asparagus](https://www.budgetbytes.com/air-fryer-asparagus/)
-  * [Radishes](https://www.budgetbytes.com/roasted-radishes/)
-  * [Carrots](https://www.budgetbytes.com/roasted-carrots/)
+  * [Zuppa Toscana](https://www.budgetbytes.com/zuppa-toscana/)
+  * [Avocado Brunch Salad](https://www.budgetbytes.com/blt-avocado-brunch-salad/)
+
 
 ## Index
 
@@ -17,4 +14,6 @@
   * [Roasted Radishes](https://www.budgetbytes.com/roasted-radishes/)
 
 ## Archives
+
+  * [[2025 Week 18]]
 
