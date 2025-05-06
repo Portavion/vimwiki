@@ -35,5 +35,4 @@
 * [ ] add modal up / down arrows (ie only in edit mode)  #9095e7e7
 * [ ] add edit button  #43dda00c
 * [ ] add save button  #4dde5648
-* [ ] Replace space in .md files  #f58ee516
 * [ ] calorie log  #7bdd0f99

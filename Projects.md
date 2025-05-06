@@ -10,7 +10,7 @@
   * [[Velock]]
   * [[Streamtostream]]
   * [[Mini Tools]]
-  * Todo.txt
+  * [[Todo.txt]]
   * [[AI Assistant]]
 
 

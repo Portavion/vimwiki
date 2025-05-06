@@ -12,3 +12,4 @@
   * [ ] make save endpoint or modify existing if needed  #18700aad
   * [X] update refresh to auto add failed / missing bikepoints to db  #dd665963
   * [ ] create objects for BikePoints and BikePointsLists with relevant methods  #69eec4f0
+  * [ ] update .env FREQ_UPDATE to be in minutes (and update calcs)  #6e35377e
