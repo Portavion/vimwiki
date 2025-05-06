@@ -1,4 +1,4 @@
-# Chalkr
+# Chalkr Project
 
 ## Roadmap
 
