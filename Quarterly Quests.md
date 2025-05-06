@@ -41,43 +41,22 @@
 * [X] Job Applications  #b333267a
 * [X] Job Applications  #16f00c96
 * [X] Job Applications  #d95564f2
-* [ ] Job Applications  #ea86c81e
+* [X] Job Applications  #ea86c81e
 * [X] Job Applications  #09492dad
 * [X] Job Applications  #2024e322
-* [ ] Job Applications  #36605350
-* [ ] Job Applications  #cae97674
-* [ ] Job Applications  #4337902d
-* [ ] Job Applications  #58a82142
-* [ ] Job Applications  #1b9b5cb5
+* [X] Job Applications  #36605350
+* [X] Job Applications  #cae97674
+* [X] Job Applications  #4337902d
+* [X] Job Applications  #58a82142
+* [X] Job Applications  #1b9b5cb5
 * [X] Solve Leetcode easy  #17d4c038
 * [X] Solve Leetcode easy  #7de6635b
 * [X] Solve Leetcode easy  #739cc6c8
 * [X] Solve Leetcode medium  #85a174a9
 * [X] Solve Leetcode medium  #646979c7
 * [X] Solve Leetcode medium  #4a31a816
-* [ ] Solve Leetcode hard  #b75301fa
 * [X] Coding projects  #2a8cb92d
-* [ ] Coding projects  #e4788b17
-* [ ] Coding projects  #e614d869
-* [ ] Coding projects  #4210ea8a
-* [ ] Coding projects  #40634722
-* [ ] Coding projects  #df9429fe
-* [ ] Coding projects  #a17d9e06
-* [ ] Coding projects  #70fe9212
-* [ ] Coding projects  #684301d4
-* [ ] Coding projects  #e4d8d3bd
-* [ ] Reading code  #bb0a3339
-* [ ] Reading code  #d6795e44
-* [ ] Reading code  #d0cd0600
-* [ ] Reading code  #31706031
-* [ ] Reading code  #a81a6f3b
 * [X] Programming Networking  #e4894e14
-* [ ] Programming Networking  #7f0f7681
-* [ ] Programming Networking  #be2d714b
-* [ ] Programming Networking  #2c547255
-* [ ] Programming Networking  #0a783e43
-* [ ] Programming Networking  #8f7e88ff
-* [ ] Programming Networking  #621c9d98
 
 * [ ] Learn about basic design patterns (singleton, factory)  #9b8526b5
 * [ ] Implement filtering by date for Chalkr  #219d04c6
@@ -85,10 +64,10 @@
 
 ##### Week 6
 
-- [ ] Deep dive into a design pattern
-- [ ] Learn about abstract classes
-- [ ] Learn about mixins
-- [ ] List all basic design patterns
+* [ ] Deep dive into a design pattern  #901c90b6
+* [ ] Learn about abstract classes  #95672680
+* [ ] Learn about mixins  #01ea8e19
+* [ ] List all basic design patterns  #b45eee73
 
 ##### Week 7
 

@@ -1,18 +1,19 @@
 # Todos
 
-* [ ] add billing method for free unlimited gemini exp models  #aa4d038f
 * [ ] RSVP to Juliette's wedding invite  #068b15de
 * [ ] Extract cursor prompts [link](https://www.reddit.com/r/ClaudeAI/comments/1k6yos2/i_was_rejected_by_cursorai_so_i_built_my_own/?share_id=UkE0iVdyzHOID-akolO_f&utm_medium=ios_app&utm_name=iossmf&utm_source=share&utm_term=22) [github](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)  #526e3645
 * [ ] Replace space in .md files  #f58ee516
 * [ ] update aider recommandations.md [video](https://www.youtube.com/watch?v=QlUt06XLbJE)  #6881e729
 * [ ] flexibility training  #b7641c7e
-* [ ] climbing  #22fa379f
 * [ ] calorie log  #7bdd0f99
-* [ ] dusting  #7f9a1d47
-* [ ] 8k steps  #6b4b2e56
+* [ ] weekly scoring  #a79be549
 
 ## Done
 
+* [X] climbing  #22fa379f
+* [X] add billing method for free unlimited gemini exp models  #aa4d038f
+* [X] dusting  #7f9a1d47
+* [X] 8k steps  #6b4b2e56
 - [X] sync vimwiki to github
 - [X] break [[Projects]] into individual notes
 - [X] check VimWiki Keybinds don't overlap with Lazyvim

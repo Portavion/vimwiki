@@ -2,7 +2,7 @@
 
 ## Tasks
 
-  * [ ] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #0edda278
+  * [X] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #0edda278
 
 ## Startups
 
