@@ -10,4 +10,5 @@
   * [ ] add save button  #4dde5648
   * [ ] add modal up / down arrows (ie only in edit mode)  #9095e7e7
   * [ ] make save endpoint or modify existing if needed  #18700aad
-  * [ ] update refresh to auto add failed / missing bikepoints to db  #dd665963
+  * [X] update refresh to auto add failed / missing bikepoints to db  #dd665963
+  * [ ] create objects for BikePoints and BikePointsLists with relevant methods  #69eec4f0
