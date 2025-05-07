@@ -6,6 +6,7 @@
 * [ ] flexibility training  #b7641c7e
 * [ ] calorie log  #7bdd0f99
 * [ ] Add kmonad and make caps lock esc on touch and ctrl on hold  #300ef346
+* [ ] Add note on Strategy Pattern  #7b7f04a4
 
 ## Done
 
