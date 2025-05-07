@@ -17,6 +17,7 @@
   * Algorithms
   * [[Data Structure]]
   * [[OOP]]
+  * [[Design Patterns]]
 
 # Games
 
