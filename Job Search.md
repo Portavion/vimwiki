@@ -3,6 +3,7 @@
 ## Tasks
 
   * [X] create a list of startup to apply to [Vivatech Conf](https://vivatechnology.com/startups-at-vivatech)  #0edda278
+  * [ ] add linux to my CV as tech stack  #9750f00a
 
 ## Startups
 

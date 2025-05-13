@@ -1,11 +1,10 @@
 # Recipes
   * [recipe-inbox](recipe-inbox.md)
 
-## Week 19
+## Week 20
 
-  * [Zuppa Toscana](https://www.budgetbytes.com/zuppa-toscana/)
-  * [Avocado Brunch Salad](https://www.budgetbytes.com/blt-avocado-brunch-salad/)
-
+  * [Chicken Alfredo](https://www.budgetbytes.com/chicken-alfredo/)
+  * [Tomate Parmesan Quiche](https://www.bbcgoodfood.com/recipes/roasted-tomato-basil-parmesan-quiche) 
 
 ## Index
 
@@ -16,4 +15,5 @@
 ## Archives
 
   * [[2025 Week 18]]
+  * [[2025 Week 19]]
 
