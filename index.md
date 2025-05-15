@@ -31,6 +31,3 @@
 * [ ] Programming Networking  #2c547255
 * [ ] remove firebase auth  #7cd5a20b
 * [ ] change project description to something more human  #e9af8375
-* [ ] add modal up / down arrows (ie only in edit mode)  #9095e7e7
-* [ ] add edit button  #43dda00c
-* [ ] add save button  #4dde5648
