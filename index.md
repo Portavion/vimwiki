@@ -24,10 +24,9 @@
   * [[Pokemon Sleep]]
 
 # Working on | tags:next status:Pending
-* [ ] Reading code  #d6795e44
-* [ ] Programming Networking  #0a783e43
-* [ ] Solve Leetcode hard  #b75301fa
-* [ ] Coding projects  #e4788b17
-* [ ] Programming Networking  #2c547255
-* [ ] remove firebase auth  #7cd5a20b
-* [ ] change project description to something more human  #e9af8375
+* [ ] List all basic design patterns  #b45eee73
+* [ ] add linux to my CV as tech stack  #9750f00a
+* [ ] refactor with strategy pattern  #97387405
+* [ ] update .env FREQ_UPDATE to be in minutes (and update calcs)  #6e35377e
+* [ ] Add note on Strategy Pattern  #7b7f04a4
+* [ ] install open-webui on Linux (and docker)  #8b021b1a
