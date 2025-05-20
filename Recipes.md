@@ -2,7 +2,7 @@
   * [recipe-inbox](recipe-inbox.md)
 
 ## Week 21
-  * [Jerk Chicken Buger](https://www.bbcgoodfood.com/recipes/jerk-chicken-burger)
+  * [Jerk Chicken Burger](https://www.bbcgoodfood.com/recipes/jerk-chicken-burger)
   * [Cowboy Caviar](https://www.budgetbytes.com/cowboy-caviar/)
 
 ## Index
