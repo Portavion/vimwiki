@@ -1,4 +1,5 @@
 # Better Sleep
+tags: #sleep #self-improvement
 
 ## Tips
 
