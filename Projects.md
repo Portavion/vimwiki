@@ -12,5 +12,6 @@
   * [[Mini Tools]]
   * [[Todo.txt]]
   * [[AI Assistant]]
+  * [[Cooked]]
 
 
