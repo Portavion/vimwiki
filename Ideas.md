@@ -19,3 +19,7 @@
 - Shortcut / app / chrome extension for quick dump of tasks into my inbox from GitHub
 - Browser extension to convert unit at the press of a button
 - I need a wee: app that gives the closest toilet (using OSM and implementing caching if possible)
+
+## 3D Printing
+
+  * bFriend - Bene: Retro Layer Line Desk Accessories [YouTube](https://www.youtube.com/watch?v=tlol_taTNnU)
