@@ -1,4 +1,4 @@
-# Productivity MOC
+# Productivity Project
 
 ## Note Taking
 
