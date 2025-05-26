@@ -1,4 +1,4 @@
-# Productivity Project
+# Productivity
 
 ## Note Taking
 
