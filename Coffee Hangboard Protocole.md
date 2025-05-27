@@ -1,5 +1,7 @@
 # Coffee Hangboard Protocol
 
+tags: #climbing #health
+
 ## Protocol
 
 Light 4-5 minutes routine that can be done 2-3 times a day while waiting for the kettle to boil / coffee to cool down.
