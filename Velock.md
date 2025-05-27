@@ -2,14 +2,16 @@
 
 ## Roadmap
 
+  * Created an in-memory storage of TfL data for faster retrieval (in a hashmap)
+
 ## TODO
 
-  * [ ] add tests  #7b30151c
-  * [ ] update remaining fetch requests to use axios  #ed4f6b5a
-  * [ ] make save endpoint or modify existing if needed  #18700aad
+  * [X] add tests  #7b30151c
+  * [X] update remaining fetch requests to use axios  #ed4f6b5a
+  * [X] make save endpoint or modify existing if needed  #18700aad
   * [ ] create objects for BikePoints and BikePointsLists with relevant methods  #69eec4f0
   * [ ] update .env FREQ_UPDATE to be in minutes (and update calcs)  #6e35377e
-  * [ ] fix list ordering  #83abb11c
+  * [X] fix list ordering  #83abb11c
 
 ## DONE
 
