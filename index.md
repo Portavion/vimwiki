@@ -13,6 +13,7 @@
   * 🎀💖[[Zishu]]💖🎀
   * 🌱⚕️[[Health]]⚕️🌱
   * 📝📅[[Productivity]]📅📝
+  * 🛠🎨[[Hobbies]]🎨🛠
 
 # Coding
 
