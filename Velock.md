@@ -1,4 +1,5 @@
 # Velock || project:Velock
+tags: #project #cycling
 
 ## Roadmap
 

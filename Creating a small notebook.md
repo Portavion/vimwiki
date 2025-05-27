@@ -1,4 +1,5 @@
 # Creating a small notebook
+tags: #bookbinding #hobby
 
   - Cut cover to size
   - Glue cover to cover material (index card or light cardboard)

@@ -1,5 +1,4 @@
 # Coffee Hangboard Protocol
-
 tags: #climbing #health
 
 ## Protocol
