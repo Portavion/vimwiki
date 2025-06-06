@@ -1,0 +1,395 @@
+# Startup Directory
+
+- [ ] 1km à Pied
+- [ ] Absolute Labs
+- [ ] ACTIVE ASSET ALLOCATION
+- [ ] ADCIS - Groupe Evolucare
+- [ ] ADOBE
+- [ ] Advizeo
+- [ ] Aegis Technologies
+- [ ] AgriMinga
+- [ ] Agyre
+- [ ] AI-Stroke
+- [ ] Aikido Security
+- [ ] Ailytics Limited
+- [ ] AINDO
+- [ ] akawan
+- [ ] Akidaia
+- [ ] AKILA
+- [ ] ALCMEON
+- [ ] Alhomna Systems
+- [ ] Alia
+- [ ] Alice & Bob
+- [ ] Allergenius
+- [ ] ALLIANCE INDUSTRIE DU FUTUR
+- [ ] ALLTHEWAY
+- [ ] ALOE
+- [ ] Alouette.ai
+- [ ] AlphaPen
+- [ ] ALTAMETRIS
+- [ ] ANDYAMO
+- [ ] Anemon Sensors
+- [ ] Anivance AI Corporation
+- [ ] Anonymous Dots Technology CoLimited
+- [ ] APREX SOLUTIONS
+- [ ] APS
+- [ ] Aquatech Innovation
+- [ ] AQUMON
+- [ ] Archismartsolar
+- [ ] Arxy Virtual Showroom
+- [ ] ASTERFOX - SOMMELIER IA
+- [ ] AUGMEDI AG
+- [ ] Augmented Sports Technologies
+- [ ] AURIZEO
+- [ ] AutoKeybo Limited
+- [ ] Autone
+- [ ] Avatar Mobilité
+- [ ] Awarek
+- [ ] AWorld
+- [ ] AXA
+- [ ] Axelife
+- [ ] BANKET
+- [ ] Batch
+- [ ] Be My Eyes
+- [ ] Beaucoup Data
+- [ ] Bewelab SA
+- [ ] BIIFOR
+- [ ] Binoloop
+- [ ] Bioeureka
+- [ ] BIOTEOS
+- [ ] BIOVOX
+- [ ] BIRDIA (Ex BPartners IA)
+- [ ] Blackleaf
+- [ ] BlocToBuild
+- [ ] Blumana
+- [ ] Braillic Limited
+- [ ] BRAINYTECH
+- [ ] BreezyAI
+- [ ] Brightside Technologies SA
+- [ ] Brikawood
+- [ ] Buddl
+- [ ] BUTTON HOP
+- [ ] BWS INTERNATIONAL
+- [ ] BYE BLUES
+- [ ] bYoRNA
+- [ ] C12
+- [ ] CALIFRAIS
+- [ ] Captain Blink
+- [ ] CARBONABLE
+- [ ] Carbone.io
+- [ ] Cartesian Theatre Corp.
+- [ ] Carto AI
+- [ ] Cezigue.io
+- [ ] Chimera
+- [ ] CibusCell
+- [ ] Cleo & You
+- [ ] Cleo Academy
+- [ ] Clever Cloud
+- [ ] Clever Cloud
+- [ ] Cloov S.r.l.
+- [ ] Cloud Temple
+- [ ] Cloudvision Srl
+- [ ] CME France
+- [ ] CO'LEC
+- [ ] Coachello
+- [ ] Coco Fiber
+- [ ] cocoding AI
+- [ ] Codepresso
+- [ ] Contents SpA
+- [ ] contexxt.ai
+- [ ] Contractzlab
+- [ ] Copilex
+- [ ] CORBERAN Parts
+- [ ] Corma
+- [ ] CorneaSight
+- [ ] COSMIC SHELTER
+- [ ] Cowa Thermal Solutions AG
+- [ ] Crateflow GmbH
+- [ ] CREACEED
+- [ ] Crossnection s.r.l.
+- [ ] csky.ai
+- [ ] CYBERDEFENSE.AI
+- [ ] D-Shape Limited
+- [ ] DAMO Srl
+- [ ] Datalliance
+- [ ] DAVI
+- [ ] DEALT
+- [ ] Deep IoTech
+- [ ] DEEPIXEL
+- [ ] DENKweit GmbH
+- [ ] DePlano
+- [ ] DESK
+- [ ] Detesia
+- [ ] DiaGen Ai. Inc
+- [ ] digihub Düsseldorf
+- [ ] DigiSkin
+- [ ] Direction générale des Entreprises
+- [ ] DOMELIOR
+- [ ] dotflow
+- [ ] DouzePointCinq
+- [ ] DOXANANO
+- [ ] Draft & Goal
+- [ ] DUKE ANALYTICS
+- [ ] DynaNIC Semiconductor
+- [ ] E-PEAS
+- [ ] E-Plato
+- [ ] E-TARANIS
+- [ ] E4RTH
+- [ ] EARTHWAKE ENTREPRISE
+- [ ] EaysBiz
+- [ ] ECTOR
+- [ ] edtake
+- [ ] ELECTRA
+- [ ] Electric Oasis
+- [ ] Elementag
+- [ ] Elips
+- [ ] ElleQuant
+- [ ] Elpyoo
+- [ ] Emiotech
+- [ ] emma
+- [ ] Emovo Care
+- [ ] Emvista
+- [ ] EmyeHR
+- [ ] Enerdrape SA
+- [ ] Enterprise Armenia
+- [ ] EONA-X data space
+- [ ] EPICNPOC
+- [ ] EPISTO
+- [ ] Erde
+- [ ] ExoMatter GmbH
+- [ ] EXPLAIN
+- [ ] EXTRACTHIVE
+- [ ] EZYMOB
+- [ ] factorymaker FlexCo
+- [ ] Famoco
+- [ ] Finapp S.R.L
+- [ ] FIRETRACKING
+- [ ] Flashbacks
+- [ ] fluiidd S.A.S.
+- [ ] fluiidd S.A.S.
+- [ ] Flyte
+- [ ] Focoos AI
+- [ ] Follower Products
+- [ ] Foncière Prosper
+- [ ] Funartech Inc
+- [ ] FundBot
+- [ ] Galeio
+- [ ] gCube
+- [ ] Genoma
+- [ ] GEOLINKS
+- [ ] GeoMate Inc
+- [ ] Geosophy
+- [ ] Global ID SA
+- [ ] GRAVIPACK
+- [ ] Green Praxis
+- [ ] Green4Cloud
+- [ ] Greenoco
+- [ ] H Company
+- [ ] HairCoSys Limited
+- [ ] HAPPLYZ Medical
+- [ ] Hâpy Services
+- [ ] NANOMADE
+- [ ] Neural Balance Innovation
+- [ ] NeuralTeks
+- [ ] NEWAVE
+- [ ] NEYOS
+- [ ] Niverbec
+- [ ] Nohô
+- [ ] NOULA
+- [ ] Novable
+- [ ] Noviga
+- [ ] NRG ON
+- [ ] Nsengo
+- [ ] NUBIOS
+- [ ] Nucleon Security
+- [ ] NUMALIS
+- [ ] NunoX Technology
+- [ ] NutriWaste
+- [ ] Nuvatech Limited
+- [ ] OASYS Studio Co., Ltd.
+- [ ] OCTOMIRO
+- [ ] Octopize
+- [ ] OCTOPIZE
+- [ ] Ogre.ai
+- [ ] OHé - Orthographe Héros
+- [ ] OKosix Limited
+- [ ] Olenbee
+- [ ] Olenergies
+- [ ] Olfy
+- [ ] OLLOS
+- [ ] Oncoelectronics
+- [ ] Opensee
+- [ ] OPS INSIGHT
+- [ ] Optel Group
+- [ ] OPTIMAL RH
+- [ ] Oreyeon
+- [ ] OTRERA NEW ENERGY
+- [ ] Outsight
+- [ ] OVI
+- [ ] PaceUP Invest GmbH
+- [ ] Palithera GmbH
+- [ ] Pantheon Lab Limited
+- [ ] Paralell Health and Beauty
+- [ ] Paxity
+- [ ] Pensertrust
+- [ ] PEOPLE-IN
+- [ ] Petalens
+- [ ] PGU MEDTEC
+- [ ] Phitech SAS
+- [ ] PHOENIX-AI
+- [ ] PINECO
+- [ ] PingPrice
+- [ ] PIXACARE
+- [ ] Plantvoice srl sb
+- [ ] PlayCurio Co., Ltd.
+- [ ] PLOUF SAFETY CONCEPT
+- [ ] Point Fit Technology Limited
+- [ ] PONY
+- [ ] PRESCRIPTIVE FS
+- [ ] PREVIA MEDICAL
+- [ ] Primo Conciergerie
+- [ ] Prio Optics
+- [ ] Procero Inc.
+- [ ] PROMUS
+- [ ] PROSPEAK AI
+- [ ] PulpoAR
+- [ ] Purple Alternative Surface
+- [ ] PURPLE ALTERNATIVE SURFACE
+- [ ] qCella AG
+- [ ] QFLUIDICS
+- [ ] QPerfect
+- [ ] Quandela
+- [ ] RAIlwAI
+- [ ] RDS SAS
+- [ ] Rea Diagnostics SA
+- [ ] RedMimicry
+- [ ] REEFLECT
+- [ ] Reeverse Systems
+- [ ] RegenEAU
+- [ ] Region Lovers
+- [ ] Relicta Srl
+- [ ] Rement
+- [ ] Renardo
+- [ ] renOdit
+- [ ] Rénover Pour Demain
+- [ ] Resilio
+- [ ] Resmonics AG
+- [ ] Reveal A.I
+- [ ] RI.CIRCOLA S.R.L.
+- [ ] Rigsters
+- [ ] Ringover
+- [ ] RMAN Sync
+- [ ] Rob'Occ
+- [ ] Robocore Technology Limited
+- [ ] Rubicon
+- [ ] RUNTECH
+- [ ] SafeBear
+- [ ] SAFEE SAS
+- [ ] Safeout
+- [ ] SAYNA
+- [ ] SCALNYX
+- [ ] Scanlitt
+- [ ] Scialytics
+- [ ] Scovery
+- [ ] SEATYZEN
+- [ ] SeedLegals
+- [ ] Shaarp
+- [ ] SHAREKEY Swiss AG
+- [ ] SHARING WORKER
+- [ ] ShiningLab Inc.
+- [ ] Shortways
+- [ ] SILENT EIGHT
+- [ ] SIPEARL
+- [ ] SKRIBI
+- [ ] SMART TRIBUNE
+- [ ] SMARTIUM Group
+- [ ] snap DISCOVERY
+- [ ] SnapAll by TimelapseLab
+- [ ] Social Thingum (Social Things Srl)
+- [ ] SORA
+- [ ] SOTILMA
+- [ ] SOURCE URBAINE
+- [ ] SP3D
+- [ ] Spark.work
+- [ ] Spartha Medical
+- [ ] Specgen
+- [ ] Starfish Bioscience
+- [ ] StarPal.ai
+- [ ] Sternboard
+- [ ] Stewdy
+- [ ] Stop la violence par TRALALERE
+- [ ] STREETNAV
+- [ ] STRIM MOBILITY
+- [ ] SUBCLIC
+- [ ] Sunbiose
+- [ ] Supervizor
+- [ ] sustamize GmbH
+- [ ] Sweep
+- [ ] SWEEP
+- [ ] Swiftask
+- [ ] Symplif.AI
+- [ ] Tambour Laverie
+- [ ] TBH2 Aquitaine
+- [ ] teamdecoder
+- [ ] Techquartier
+- [ ] Terracall
+- [ ] Terrakana
+- [ ] Terralpha
+- [ ] TESTEUM
+- [ ] THE CROSS PRODUCT
+- [ ] THE ISLAND COSMETICS
+- [ ] The PAAC
+- [ ] The Polyfloss Factory
+- [ ] The Ring - UDC
+- [ ] Theory+Practice
+- [ ] Tiledesk Srl
+- [ ] Tilt Energy
+- [ ] TIMi
+- [ ] Tinental
+- [ ] TOIT DE PARIS
+- [ ] TOWT
+- [ ] TrueScreen s.r.l.
+- [ ] UHIFADHI
+- [ ] ulalaLAB Inc
+- [ ] UNDA
+- [ ] Unplug
+- [ ] UPPLY
+- [ ] vadiMAP
+- [ ] Validaitor
+- [ ] ValueCo
+- [ ] VerifyWise
+- [ ] Verley
+- [ ] VERNE AM
+- [ ] Vianova
+- [ ] Videobot
+- [ ] VISIOON
+- [ ] Vismed Training Limited
+- [ ] Visualsyn, Inc.
+- [ ] VITIVISIO
+- [ ] Voclia
+- [ ] Vooban
+- [ ] Vulkam
+- [ ] Wallace Technologies
+- [ ] WALLVISION
+- [ ] Wearin'
+- [ ] Webyn
+- [ ] WEMAP
+- [ ] Westwell
+- [ ] Wheere
+- [ ] WhoTeach (AITech4T Srl)
+- [ ] Widex
+- [ ] WillDom
+- [ ] WINTICS
+- [ ] Wollette France
+- [ ] Wonderpack
+- [ ] woorikidsplus
+- [ ] WordLift
+- [ ] Wudo
+- [ ] XFA
+- [ ] XXII
+- [ ] YOCUDA
+- [ ] Yuniboat
+- [ ] Zelros
+- [ ] ZENI
+- [ ] ZeroKey
+- [ ] Zerynth S.p.A.
