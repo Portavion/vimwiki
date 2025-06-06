@@ -11,15 +11,15 @@ tags:
 
 ## Main
 
-[[Inbox]] -- dump and temporary stuff
-[[Todos]] -- should have been done _yesterday_!!
-[[Projects]] -- a list of all the current projects
-[[Ideas]] -- things I could build later
-[[Blog]] -- Article ideas etc.
+[Inbox](Inbox.md) -- dump and temporary stuff
+[Todos](Todos.md) -- should have been done _yesterday_!!
+[Projects](Projects.md) -- a list of all the current projects
+[Ideas](Ideas.md) -- things I could build later
+[Blog](Blog.md) -- Article ideas etc.
 
 ## Life Stuff
 
-[[Health]] ⚕️🌱
+[Health](/Health.md) ⚕️🌱
 [[Hobbies]] 🎨🛠
 [[Productivity]] 📅📝
 [[Quarterly Quests]] ✨🧙🏻
@@ -29,6 +29,7 @@ tags:
 ## Coding
 
 [[Algorithms]]
+[[algorithms]]
 [[Data Structure]]
 [[Design Patterns]]
 [[OOP]]

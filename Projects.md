@@ -3,6 +3,7 @@ id: Projects
 aliases: []
 tags:
   - #project
+  - #MOC
 ---
 
 # Projects

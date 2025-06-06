@@ -1,7 +1,9 @@
 ---
 id: Ideas
 aliases: []
-tags: []
+tags:
+  - #ideas
+  - #MOC
 ---
 
 # Ideas
